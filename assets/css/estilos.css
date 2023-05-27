@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+    padding: 0;
+    width: 1280px;
+}
+
+.header{
+    background-color: black;
+    height: 73px;
+}
+
+.headertxt{
+    display: flex;
+    width: 221px;
+    height: 59px;
+    text-align: left;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    padding-top: 7px;
+    padding-left: 530px;
+    padding-bottom: 7px;
+    padding-right: 529px;
+}
+
+.iguanaheader{
+    display: block;
+    width: 100%;
+}
+
+.main{
+    height: 348px;
+    background-color: black;
+}
+
+.maintxt{
+    display: flex;
+    position: absolute;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    text-align: left;
+    height: 197px;
+    width: 475px;
+    padding-left: 150px;
+    padding-top: 76px;
+    padding-bottom: 75px;
+    padding-right: 655px;
+}
+
+.mainimg{
+    display: flex;
+    position: absolute;
+    width: 399px;
+    height: 237px;
+    padding-top: 45px;
+    padding-bottom: 66px;
+    padding-right: 150px;
+    padding-left: 731px;
+}
+
+.char{
+    background-color: #1E1A13;
+    color: white;
+    text-align: center;
+    height: 348px;
+}
+
+.chartitle{
+    position: absolute;
+    height: 47px;
+    width: 356px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    padding-top: 75px;
+    padding-left: 463.5px;
+    padding-bottom: 226px;
+    padding-right: 460.5;
+}
+
+.thirdeyeimg{
+    position: absolute;
+    display: flex;
+    width: 57px;
+    height: 36.64;
+    padding-top: 192px;
+    padding-left: 326px;
+    padding-bottom: 119.36px;
+    padding-right: 897px;
+    font-size: 38px;
+}
+
+
+.thirdeyetxt{
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    position: absolute;
+    display: flex;
+    width: 109px;
+    height: 29px;
+    padding-top: 245px;
+    padding-left: 301px;
+    padding-bottom: 74px;
+    padding-right: 871px;
+}
+
+.peacehandimg{
+    position: absolute;
+    display: flex;
+    width: 39.17px;
+    height: 55.8px;
+    padding-top: 172px;
+    padding-left: 620.41px;
+    padding-bottom: 120.2px;
+    padding-right: 620.41px;
+    font-size: 50px;
+}
+
+
+.peacehandtxt{
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    position: absolute;
+    display: flex;
+    width: 98px;
+    height: 30px;
+    padding-top: 244px;
+    padding-left: 591px;
+    padding-bottom: 74px;
+    padding-right: 591px;
+}
+
+.paintbrushimg{
+    position: absolute;
+    display: flex;
+    width: 40.93px;
+    height: 48.61px;
+    padding-top: 179.39px;
+    padding-left: 915.25px;
+    padding-bottom: 120px;
+    padding-right: 323.82px;
+    font-size: 45px;
+}
+
+.paintbrushtxt{
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    position: absolute;
+    display: flex;
+    width: 202px;
+    height: 30px;
+    padding-top: 244px;
+    padding-left: 834.88px;
+    padding-bottom: 74px;
+    padding-right: 243.12px;
+}
+
+.galleryiguana {
+    background-color: black;
+    height: 348px;
+}
+
+.rediguana{
+    display: flex;
+    position: absolute;
+    width: 316px;
+    height: 202px;
+    padding-top: 73px;
+    padding-left: 150px;
+    padding-bottom: 73px;
+    padding-right: 814px;
+}
+
+.yellowiguana{
+    display: flex;
+    position: absolute;
+    width: 316px;
+    height: 202px;
+    padding-top: 73px;
+    padding-left: 482px;
+    padding-bottom: 73px;
+    padding-right: 482px;
+}
+
+.browniguana{
+    display: flex;
+    position: absolute;
+    width: 316px;
+    height: 202px;
+    padding-top: 73px;
+    padding-left: 814px;
+    padding-bottom: 73px;
+    padding-right: 150px;
+}
+
+.footer{
+    height: 102px;
+    background-color: #1E1A13;
+    text-align: left;
+}
+
+.footertxt{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    width: 682px;
+    height: 24px;
+    padding-top: 39px;
+    padding-left: 299px;
+    padding-bottom: 39px;
+    padding-right: 299px;
+}
